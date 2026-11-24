@@ -1,0 +1,303 @@
+[
+  {
+    "old": "https://zak618.github.io/stepik-course-pages/courses/305734-go-pro-max/introduction/01-welcome.html?embed=1&v=go-max-intro-20261120-2",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/introduction/01-welcome.html?embed=1&v=go-max-intro-20261120-2",
+    "path": "courses/305734-go-pro-max/introduction/01-welcome.html",
+    "family": "introduction",
+    "lab": null
+  },
+  {
+    "old": "https://zak618.github.io/stepik-course-pages/courses/305734-go-pro-max/introduction/02-telegram.html?embed=1&v=go-max-intro-20261120-2",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/introduction/02-telegram.html?embed=1&v=go-max-intro-20261120-2",
+    "path": "courses/305734-go-pro-max/introduction/02-telegram.html",
+    "family": "introduction",
+    "lab": null
+  },
+  {
+    "old": "https://zak618.github.io/stepik-course-pages/courses/305734-go-pro-max/introduction/03-course-map.html?embed=1&v=go-max-intro-20261120-2",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/introduction/03-course-map.html?embed=1&v=go-max-intro-20261120-2",
+    "path": "courses/305734-go-pro-max/introduction/03-course-map.html",
+    "family": "introduction",
+    "lab": null
+  },
+  {
+    "old": "https://zak618.github.io/stepik-course-pages/courses/305734-go-pro-max/introduction/04-about-you.html?embed=1&v=go-max-intro-20261120-2",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/introduction/04-about-you.html?embed=1&v=go-max-intro-20261120-2",
+    "path": "courses/305734-go-pro-max/introduction/04-about-you.html",
+    "family": "introduction",
+    "lab": null
+  },
+  {
+    "old": "https://zak618.github.io/stepik-course-pages/courses/305734-go-pro-max/introduction/05-your-goal.html?embed=1&v=go-max-intro-20261120-2",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/introduction/05-your-goal.html?embed=1&v=go-max-intro-20261120-2",
+    "path": "courses/305734-go-pro-max/introduction/05-your-goal.html",
+    "family": "introduction",
+    "lab": null
+  },
+  {
+    "old": "https://zak618.github.io/stepik-course-pages/courses/305734-go-pro-max/introduction/06-start.html?embed=1&v=go-max-intro-20261120-2",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/introduction/06-start.html?embed=1&v=go-max-intro-20261120-2",
+    "path": "courses/305734-go-pro-max/introduction/06-start.html",
+    "family": "introduction",
+    "lab": null
+  },
+  {
+    "old": "https://goshechka-git-labs.coatedether.chatgpt.site/?lab=branches&embed=1",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/17-git-basics/branches.html?lab=branches&embed=1",
+    "path": "courses/305734-go-pro-max/modules/17-git-basics/branches.html",
+    "family": "git",
+    "lab": "branches"
+  },
+  {
+    "old": "https://goshechka-git-labs.coatedether.chatgpt.site/?lab=local&embed=1",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/16-git-start/local.html?lab=local&embed=1",
+    "path": "courses/305734-go-pro-max/modules/16-git-start/local.html",
+    "family": "git",
+    "lab": "local"
+  },
+  {
+    "old": "https://goshechka-git-labs.coatedether.chatgpt.site/?lab=remote&embed=1",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/17-git-basics/remote.html?lab=remote&embed=1",
+    "path": "courses/305734-go-pro-max/modules/17-git-basics/remote.html",
+    "family": "git",
+    "lab": "remote"
+  },
+  {
+    "old": "https://goshechka-git-labs.coatedether.chatgpt.site/?lab=mission&embed=1",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/18-git-practice/mission.html?lab=mission&embed=1",
+    "path": "courses/305734-go-pro-max/modules/18-git-practice/mission.html",
+    "family": "git",
+    "lab": "mission"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/?lab=images&embed=1",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/19-docker/images.html?lab=images&embed=1",
+    "path": "courses/305734-go-pro-max/modules/19-docker/images.html",
+    "family": "docker",
+    "lab": "images"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/?lab=storage&embed=1",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/19-docker/storage.html?lab=storage&embed=1",
+    "path": "courses/305734-go-pro-max/modules/19-docker/storage.html",
+    "family": "docker",
+    "lab": "storage"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/?lab=cache&embed=1",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/19-docker/cache.html?lab=cache&embed=1",
+    "path": "courses/305734-go-pro-max/modules/19-docker/cache.html",
+    "family": "docker",
+    "lab": "cache"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/?lab=storage-console&embed=1",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/19-docker/storage-console.html?lab=storage-console&embed=1",
+    "path": "courses/305734-go-pro-max/modules/19-docker/storage-console.html",
+    "family": "docker",
+    "lab": "storage-console"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/?lab=network&embed=1",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/19-docker/network.html?lab=network&embed=1",
+    "path": "courses/305734-go-pro-max/modules/19-docker/network.html",
+    "family": "docker",
+    "lab": "network"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/?lab=network-console&embed=1",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/19-docker/network-console.html?lab=network-console&embed=1",
+    "path": "courses/305734-go-pro-max/modules/19-docker/network-console.html",
+    "family": "docker",
+    "lab": "network-console"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/?lab=compose&embed=1",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/19-docker/compose.html?lab=compose&embed=1",
+    "path": "courses/305734-go-pro-max/modules/19-docker/compose.html",
+    "family": "docker",
+    "lab": "compose"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/?lab=swarm&embed=1",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/19-docker/swarm.html?lab=swarm&embed=1",
+    "path": "courses/305734-go-pro-max/modules/19-docker/swarm.html",
+    "family": "docker",
+    "lab": "swarm"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/?lab=compose-console&embed=1",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/19-docker/compose-console.html?lab=compose-console&embed=1",
+    "path": "courses/305734-go-pro-max/modules/19-docker/compose-console.html",
+    "family": "docker",
+    "lab": "compose-console"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m23-l01-s02",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/23-vue-basics/m23-l01-s02.html?lab=m23-l01-s02",
+    "path": "courses/305734-go-pro-max/modules/23-vue-basics/m23-l01-s02.html",
+    "family": "vue",
+    "lab": "m23-l01-s02"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m23-l03-s03",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/23-vue-basics/m23-l03-s03.html?lab=m23-l03-s03",
+    "path": "courses/305734-go-pro-max/modules/23-vue-basics/m23-l03-s03.html",
+    "family": "vue",
+    "lab": "m23-l03-s03"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m23-l05-s02",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/23-vue-basics/m23-l05-s02.html?lab=m23-l05-s02",
+    "path": "courses/305734-go-pro-max/modules/23-vue-basics/m23-l05-s02.html",
+    "family": "vue",
+    "lab": "m23-l05-s02"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m23-l04-s03",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/23-vue-basics/m23-l04-s03.html?lab=m23-l04-s03",
+    "path": "courses/305734-go-pro-max/modules/23-vue-basics/m23-l04-s03.html",
+    "family": "vue",
+    "lab": "m23-l04-s03"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m23-l06-s03",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/23-vue-basics/m23-l06-s03.html?lab=m23-l06-s03",
+    "path": "courses/305734-go-pro-max/modules/23-vue-basics/m23-l06-s03.html",
+    "family": "vue",
+    "lab": "m23-l06-s03"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m23-l05-s06",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/23-vue-basics/m23-l05-s06.html?lab=m23-l05-s06",
+    "path": "courses/305734-go-pro-max/modules/23-vue-basics/m23-l05-s06.html",
+    "family": "vue",
+    "lab": "m23-l05-s06"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m23-l07-s02",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/23-vue-basics/m23-l07-s02.html?lab=m23-l07-s02",
+    "path": "courses/305734-go-pro-max/modules/23-vue-basics/m23-l07-s02.html",
+    "family": "vue",
+    "lab": "m23-l07-s02"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m24-l02-s02",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/24-vue-components/m24-l02-s02.html?lab=m24-l02-s02",
+    "path": "courses/305734-go-pro-max/modules/24-vue-components/m24-l02-s02.html",
+    "family": "vue",
+    "lab": "m24-l02-s02"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m24-l03-s02",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/24-vue-components/m24-l03-s02.html?lab=m24-l03-s02",
+    "path": "courses/305734-go-pro-max/modules/24-vue-components/m24-l03-s02.html",
+    "family": "vue",
+    "lab": "m24-l03-s02"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m24-l05-s03",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/24-vue-components/m24-l05-s03.html?lab=m24-l05-s03",
+    "path": "courses/305734-go-pro-max/modules/24-vue-components/m24-l05-s03.html",
+    "family": "vue",
+    "lab": "m24-l05-s03"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m24-l06-s03",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/24-vue-components/m24-l06-s03.html?lab=m24-l06-s03",
+    "path": "courses/305734-go-pro-max/modules/24-vue-components/m24-l06-s03.html",
+    "family": "vue",
+    "lab": "m24-l06-s03"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m24-l07-s03",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/24-vue-components/m24-l07-s03.html?lab=m24-l07-s03",
+    "path": "courses/305734-go-pro-max/modules/24-vue-components/m24-l07-s03.html",
+    "family": "vue",
+    "lab": "m24-l07-s03"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m25-l01-s03",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/25-vue-routing-state/m25-l01-s03.html?lab=m25-l01-s03",
+    "path": "courses/305734-go-pro-max/modules/25-vue-routing-state/m25-l01-s03.html",
+    "family": "vue",
+    "lab": "m25-l01-s03"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m25-l02-s03",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/25-vue-routing-state/m25-l02-s03.html?lab=m25-l02-s03",
+    "path": "courses/305734-go-pro-max/modules/25-vue-routing-state/m25-l02-s03.html",
+    "family": "vue",
+    "lab": "m25-l02-s03"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m25-l04-s03",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/25-vue-routing-state/m25-l04-s03.html?lab=m25-l04-s03",
+    "path": "courses/305734-go-pro-max/modules/25-vue-routing-state/m25-l04-s03.html",
+    "family": "vue",
+    "lab": "m25-l04-s03"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m25-l06-s03",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/25-vue-routing-state/m25-l06-s03.html?lab=m25-l06-s03",
+    "path": "courses/305734-go-pro-max/modules/25-vue-routing-state/m25-l06-s03.html",
+    "family": "vue",
+    "lab": "m25-l06-s03"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m26-l02-s03",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/26-vue-go-api/m26-l02-s03.html?lab=m26-l02-s03",
+    "path": "courses/305734-go-pro-max/modules/26-vue-go-api/m26-l02-s03.html",
+    "family": "vue",
+    "lab": "m26-l02-s03"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m26-l04-s02",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/26-vue-go-api/m26-l04-s02.html?lab=m26-l04-s02",
+    "path": "courses/305734-go-pro-max/modules/26-vue-go-api/m26-l04-s02.html",
+    "family": "vue",
+    "lab": "m26-l04-s02"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m26-l05-s02",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/26-vue-go-api/m26-l05-s02.html?lab=m26-l05-s02",
+    "path": "courses/305734-go-pro-max/modules/26-vue-go-api/m26-l05-s02.html",
+    "family": "vue",
+    "lab": "m26-l05-s02"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m27-l03-s02",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/27-delivery-interface/m27-l03-s02.html?lab=m27-l03-s02",
+    "path": "courses/305734-go-pro-max/modules/27-delivery-interface/m27-l03-s02.html",
+    "family": "vue",
+    "lab": "m27-l03-s02"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m27-l02-s03",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/27-delivery-interface/m27-l02-s03.html?lab=m27-l02-s03",
+    "path": "courses/305734-go-pro-max/modules/27-delivery-interface/m27-l02-s03.html",
+    "family": "vue",
+    "lab": "m27-l02-s03"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m27-l04-s03",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/27-delivery-interface/m27-l04-s03.html?lab=m27-l04-s03",
+    "path": "courses/305734-go-pro-max/modules/27-delivery-interface/m27-l04-s03.html",
+    "family": "vue",
+    "lab": "m27-l04-s03"
+  },
+  {
+    "old": "https://goshechka-docker-labs.coatedether.chatgpt.site/vue/?lab=m28-l01-s03",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/modules/28-vue-tests-build/m28-l01-s03.html?lab=m28-l01-s03",
+    "path": "courses/305734-go-pro-max/modules/28-vue-tests-build/m28-l01-s03.html",
+    "family": "vue",
+    "lab": "m28-l01-s03"
+  },
+  {
+    "old": "https://zak618.github.io/stepik-course-pages/courses/305734-go-pro-max/promo/project.html?v=go-max-promo-20261120-2",
+    "new": "https://vladdt1.github.io/stepik-course-pages/courses/305734-go-pro-max/promo/project.html?v=go-max-promo-20261120-2",
+    "path": "courses/305734-go-pro-max/promo/project.html",
+    "family": "promo",
+    "lab": null
+  }
+]

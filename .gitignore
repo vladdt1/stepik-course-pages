@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+.local-publication/
+node_modules
+.build/
+*.log
+__pycache__/
