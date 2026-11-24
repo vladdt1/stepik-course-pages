@@ -59,8 +59,8 @@ const bodies = {
     <span class="code-mint">// Начнём здесь</span>
 }</pre><div class="code-bracket">{ }</div></div>
       <div class="build-links" aria-hidden="true"><i></i><i></i><i></i></div>
-      <div class="project-window"><div class="window-top"><i></i><i></i><i></i><span>Доставка</span></div><div class="project-order"><span class="order-icon">▤</span><div><strong>Новый заказ</strong><span>Каталог · Корзина · Доставка</span></div></div><div class="project-services"><span>Go</span><span>HTTP</span><span>PostgreSQL</span></div><div class="project-result"><span>✓</span> Всё работает вместе</div></div></div>
-      <ol class="build-stages"><li>Основы Go</li><li>Тесты и HTTP</li><li>Git, SQL, Docker</li><li>Сервис доставки</li></ol>
+      <div class="project-window"><div class="window-top"><i></i><i></i><i></i><span>Доставка</span></div><div class="project-order"><span class="order-icon">▤</span><div><strong>Новый заказ</strong><span>Каталог · Корзина · Доставка</span></div></div><div class="project-services"><span>Vue</span><span>Go API</span><span>PostgreSQL</span></div><div class="project-result"><span>✓</span> Всё работает вместе</div></div></div>
+      <ol class="build-stages"><li>Основы Go</li><li>Тесты и HTTP</li><li>Git, SQL, Docker</li><li>Vue и доставка</li></ol>
       <div class="build-control"><button class="button" type="button" id="build-project">Посмотреть сборку</button><p class="sr-only" id="build-status" role="status" aria-live="polite"></p></div>
     </section>`,
 };

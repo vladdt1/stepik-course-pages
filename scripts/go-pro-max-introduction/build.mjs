@@ -7,7 +7,7 @@ import {version} from './config.mjs';
 const folder = 'courses/305734-go-pro-max/introduction';
 const profile = {
   id: 305734, title: 'Go-шечка Pro MAX',
-  topics: 'На курсе изучим Go, Git, Docker и SQL. Будем писать код, решать задачи и собирать сервис доставки: с каталогом, корзиной и заказами.',
+  topics: 'На курсе изучим Go, Vue, Git, Docker и SQL. Будем писать код, решать задачи и собирать сервис доставки: с каталогом, корзиной и заказами.',
 };
 await mkdir(folder, {recursive: true});
 // Course-specific wording; the universal catalogue and other courses stay intact.
