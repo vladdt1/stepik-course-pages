@@ -1,0 +1,84 @@
+:root {
+  color-scheme: light;
+  font: 15px/1.45 Inter, system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: #18364b;
+  background: #fff;
+  --navy: #102d40;
+  --blue: #087fac;
+  --mint: #53caad;
+  --line: #d5e3ea;
+  --muted: #537080;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: #fff; overflow-x: hidden; }
+button, input { font: inherit; }
+button { min-height: 42px; padding: 8px 13px; border: 1px solid #c8d9e2; border-radius: 9px; background: #fff; color: #18364b; font-weight: 700; cursor: pointer; }
+button:hover { background: #edf7fa; }
+button:focus-visible, input:focus-visible { outline: 3px solid #ffbd62; outline-offset: 2px; }
+.app { max-width: 1120px; margin: 0 auto; padding: 8px; }
+.task-card { padding: 12px 15px; border: 1px solid #cfe3ee; border-radius: 12px; background: #eef6fa; }
+.task-line { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
+.task-line strong { font-size: 16px; line-height: 1.3; }
+.progress { flex: 0 0 auto; color: #4f7081; font-size: 12px; white-space: nowrap; }
+.task-text { margin: 6px 0 0; font-size: 14px; }
+.hint-row { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-top: 8px; }
+.hint-row[hidden] { display: none; }
+.hint-row button { min-height: 36px; padding: 5px 10px; font-size: 12px; }
+.hint-text { margin: 0; color: #6a4b91; font-size: 12px; }
+.hint-text:empty { display: none; }
+.board { margin-top: 12px; padding: 12px 14px; border-radius: 12px; background: var(--navy); color: #eff8fc; }
+.board-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 7px; }
+.board h2 { margin: 0; font-size: 15px; text-align: center; }
+.branch-now { flex: 0 0 auto; padding: 3px 8px; border: 1px solid #5c8296; border-radius: 20px; color: #d6edf5; font-size: 11px; }
+.board-grid { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(175px, .8fr); gap: 12px; align-items: stretch; }
+.graph { min-width: 0; min-height: 98px; padding: 7px; border: 1px solid #42647a; border-radius: 9px; background: #15384e; }
+.graph svg { display: block; width: 100%; height: auto; max-height: 142px; }
+.graph .edge { stroke: #8cb5c6; stroke-width: 3; fill: none; }
+.graph .edge.merge { stroke: #51d2ae; }
+.graph .commit { fill: #53caad; stroke: #d9fff4; stroke-width: 2; }
+.graph .commit.remote { fill: #82b4ff; }
+.graph .commit-label { fill: #f1f8fb; font: 12px ui-monospace, SFMono-Regular, Consolas, monospace; }
+.graph .ref-label { fill: #bfe9da; font: 12px Inter, system-ui, sans-serif; }
+.graph-empty { display: grid; min-height: 85px; place-items: center; margin: 0; color: #b9d1dc; font-size: 13px; text-align: center; }
+.state-list { display: grid; gap: 6px; align-content: start; }
+.state-row { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; padding: 7px 9px; border: 1px solid #466b80; border-radius: 8px; background: #193e53; font-size: 12px; }
+.state-row strong { color: #e9f7fb; }
+.state-row span { color: #c0d6e0; text-align: right; overflow-wrap: anywhere; }
+.state-row.good { border-color: #39977f; background: #174d48; }
+.files { margin-top: 9px; padding-top: 8px; border-top: 1px solid #395c70; }
+.files h3 { margin: 0 0 5px; color: #d5eaf2; font-size: 12px; text-align: center; }
+.file-list { display: flex; flex-wrap: wrap; gap: 6px; }
+.file-chip { max-width: 100%; padding: 4px 7px; border: 1px solid #52768a; border-radius: 6px; background: #20475d; color: #eaf6fa; font: 11px ui-monospace, SFMono-Regular, Consolas, monospace; overflow-wrap: anywhere; }
+.file-chip.changed { border-color: #dbbc6f; background: #49442e; color: #fff0be; }
+.file-chip.staged { border-color: #53caad; background: #174f49; color: #c5f6e7; }
+.console { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 8px; align-items: center; margin-top: 10px; padding: 10px; border: 1px solid #36556a; border-radius: 11px; background: #0b202c; color: #edf6fa; }
+.prompt { color: #88dec2; font: 15px ui-monospace, SFMono-Regular, Consolas, monospace; }
+.command-label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; }
+.command-input { min-width: 0; width: 100%; min-height: 40px; padding: 8px 10px; border: 1px solid #5c7b8d; border-radius: 7px; background: #123246; color: #f6fbfd; font: 13px ui-monospace, SFMono-Regular, Consolas, monospace; }
+.command-input::placeholder { color: #acc0ca; }
+.console button { min-height: 40px; padding: 7px 12px; }
+.output { min-height: 30px; margin: 7px 2px 0; color: #244657; font: 12px/1.45 ui-monospace, SFMono-Regular, Consolas, monospace; white-space: pre-wrap; overflow-wrap: anywhere; }
+.output.error { color: #84351d; background: #fff1e8; padding: 8px 10px; border-radius: 7px; }
+.output.success { color: #14614c; background: #edf8f2; padding: 8px 10px; border-radius: 7px; }
+.bottom { display: flex; justify-content: flex-end; margin-top: 7px; }
+.bottom button { min-height: 34px; padding: 4px 9px; font-size: 11px; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+@media (max-width: 620px) {
+  .app { padding: 5px; }
+  .task-card { padding: 10px 11px; }
+  .task-line { gap: 6px; }
+  .task-line strong { font-size: 15px; }
+  .progress { font-size: 11px; }
+  .task-text { font-size: 13px; }
+  .board { padding: 10px; }
+  .board-grid { grid-template-columns: minmax(0, 1fr); gap: 7px; }
+  .graph { min-height: 75px; padding: 4px; }
+  .graph svg { max-height: 118px; }
+  .state-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .state-row { padding: 6px; font-size: 11px; }
+  .console { grid-template-columns: auto minmax(0,1fr); gap: 7px; padding: 8px; }
+  .console button { grid-column: 2; justify-self: end; min-height: 36px; }
+  .command-input { font-size: 12px; }
+  .output { min-height: 26px; font-size: 11px; }
+}
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; animation: none !important; } }
